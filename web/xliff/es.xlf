@@ -10888,6 +10888,12 @@ El valor de este campo se compara con el atributo de pertenencia del usuario.</t
 <trans-unit id="s0393ac07cf8a3097">
   <source>Endpoint Devices</source>
 </trans-unit>
+<trans-unit id="s8bf373b1a2bfefed">
+  <source>Promoted</source>
+</trans-unit>
+<trans-unit id="s4a600d70e4348810">
+  <source>When enabled, this source will be displayed as a prominent button on the login page, instead of a small icon.</source>
+</trans-unit>
     </body>
   </file>
 </xliff>
